@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  git_exmaple
-//
-//  Created by Administrador on 07/01/21.
-//  Copyright © 2021 Administrador. All rights reserved.
-//
+
 
 #include <iostream>
 using namespace std;
